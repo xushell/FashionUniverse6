@@ -1,0 +1,112 @@
+Company_Name,id,Year_Founded,Headquarter,HQ_LAT,HQ_LON,Headquarter_2,Style_Category,Employee_Number_Est,Low_Price_Range_Dollar,High_Price_Range_Dollar,Gender_Target,Low_Age_Target,High_Age_Target,Political_Target,Low_Women_Size,High_Women_Size,Low_Men_Size,High_Men_Size,Revenue_2015_MDollar,COGS_2015_Dollar,Net_Income_2015_Dollar,EBITDA_2015_Dollar,Pub_Private,Profit_Margin_Ratio,Ratio_Category
+Abercrombie & Fitch (Includes Hollister),1,1892,"New Albany, OH, USA",40.0811745,-82.8087864,,Casual,65000,30,100,"Male, Female",12,30,"Conservative, Liberal",-2,14,32,49,3740,1660000000,51820000,389780000,Public,1%,Medium
+Acne Studios,2,1996,"Stockholm, Sweden",59.3293235,18.0685808,,Modern,500,100,1500,"Male, Female",25,35,Liberal,2,12,34,44,133,,,,Private,,NA
+Adidas,3,1949,"Herzogenaurach, Germany",49.5682987,10.8828577,,Sportswear,53700,30,100,"Male, Female",12,30,"Conservative, Liberal",0,22,31,58,18039,9080000000,725186000,1750000000,Public,4%,Medium
+Aéropostale,4,1973,"NY, USA",40.7127837,-74.0059413,,Casual,20000,5,30,"Male, Female",12,17,"Conservative, Liberal",-2,18,34,54,1840,1460000000,-206460000,-74790000,Public,-11%,Low
+Alexander McQueen (Kering),5,1992,"London, UK",51.5073509,-0.1277583,,Luxury,500,1000,25000,"Male, Female",20,50,"Conservative, Liberal",1,14,35,44,267,,,,Public,,NA
+Alexander Wang,6,2007,"NY, USA",40.7127837,-74.0059413,,Modern,500,300,6000,"Male, Female",25,40,Liberal,0,10,32,42,43,,,,Private,,NA
+Alice and Olivia,7,2002,"NY, USA",40.7127837,-74.0059413,,Modern,500,100,1500,Female,20,30,Liberal,-1,12,,,200,,,,Private,,NA
+American Apparel,8,1989,"LA, USA",30.9842977,-91.9623327,,Casual,8000,20,100,"Male, Female",18,35,"Conservative, Liberal",-1,18,31,52,600,,-70000000,,Public (Filed for bankruptcy),-12%,Low
+American Eagle Outfitters,9,1977,"Pittsburgh, USA",40.4406248,-79.9958864,,Casual,39600,20,100,"Male, Female",12,30,"Conservative, Liberal",-1,18,35,54,3280,2260000000,88790000,348180000,Public,3%,Medium
+Ann Inc. (Ascena Retail Group),10,1954,"NY, USA",40.7127837,-74.0059413,,Modern,19900,20,150,Female,25,50,"Conservative, Liberal",-1,18,,,2533,,67980000,,Public,3%,Medium
+Armani,11,1975,"Milan, Italy",45.4654219,9.1859243,,Luxury,2000,200,15000,"Male, Female",18,35,"Conservative, Liberal",0,16,32,46,2900,,,,Private,,NA
+Asos,12,2000,"London, UK",51.5073509,-0.1277583,,Casual,4000,20,300,"Male, Female",18,30,Liberal,0,14,30,48,1430,593000000,51430400,74100000,Public,4%,Medium
+Balenciaga (Kering),13,1919,"Paris, France",48.856614,2.3522219,,Luxury,1000,200,13000,"Male, Female",16,40,"Conservative, Liberal",2,12,34,45,387,,,,Private,,NA
+Balmain,14,1955,"Paris, France",48.856614,2.3522219,,Luxury,500,300,10000,"Male, Female",18,40,"Conservative, Liberal",2,12,34,45,136,,,,Private,,NA
+BCBG Max Azria,15,1989,"Vernon, CA, USA",34.003903,-118.230073,,Modern,2700,40,2000,Female,18,35,"Conservative, Liberal",0,12,,,1652,,,,Public (Filed for bankruptcy),-10%,Low
+Bottega Veneta (Kering),16,1966,"Lugano, Switzerland",46.0036778,8.951052,,Luxury,3401,500,10000,Female,25,45,"Conservative, Liberal",0,12,,,1371,,,,Public,,NA
+Brooks Brothers,17,1818,"NY, USA",40.7127837,-74.0059413,,Classic,4000,50,1500,"Male, Female",20,45,Conservative,2,16,32,52,1200,,,,Private,,NA
+Burberry,18,1856,"London, UK",51.5073509,-0.1277583,,Luxury,10900,70,7500,"Male, Female",25,40,"Conservative, Liberal",0,14,35,48,3161,,421854720,,Public,13%,High
+Calvin Klein (PVH),19,1968,"NY, USA",40.7127837,-74.0059413,,Modern,5000,40,1300,"Male, Female",15,40,"Conservative, Liberal",0,14,35,59,1150,,140000000,,Public,12%,High
+Canada Goose,20,1957,"Toronto, Canada",43.653226,-79.3831843,,Modern,1000,350,1500,"Male, Female",25,45,"Conservative, Liberal",0,20,32,56,192,,12670000,,Public,7%,Medium
+Canali,21,1934,"Sovico, Italy",45.6486329,9.2647734,,Luxury,1700,300,5000,Male,25,50,"Conservative, Liberal",,,34,54,225,,,,Private,,NA
+Céline (LVMH),22,1945,"Paris, France",48.856614,2.3522219,,Luxury,1800,300,5000,Female,30,50,"Conservative, Liberal",-1,16,,,200,,,,Public,,NA
+Chanel,23,1910,"Paris, France",48.856614,2.3522219,,Luxury,10000,900,15000,"Male, Female",18,60,"Conservative, Liberal",0,14,38,48,7500,,1400000000,,Private,19%,High
+Chico’s,24,1983,"Fort Myers, FL, USA",26.640628,-81.8723084,,Casual,23700,30,400,Female,35,55,"Conservative, Liberal",4,20,,,2680,,62940000,,Public,2%,Medium
+Chloé (Richemont),25,1952,"Paris, France",48.856614,2.3522219,,Luxury,500,300,9000,Female,18,40,"Conservative, Liberal",0,12,,,300,,,,Private,,NA
+Christian Dior (LVMH),26,1946,"Paris, France",48.856614,2.3522219,,Luxury,5000,500,10000,"Male, Female",25,50,"Conservative, Liberal",2,14,,,1106,,,,Public,,NA
+Coach,27,1941,"NY, USA",40.7127837,-74.0059413,,Luxury,17200,100,3000,"Male, Female",20,50,"Conservative, Liberal",-1,14,33,51,4190,,402400000,,Public,10%,Medium
+Columbia,28,1938,"Washington County, Oregon, USA",45.5469616,-123.1386021,,Sportswear,5300,20,1000,"Male, Female",18,34,"Conservative, Liberal",2,18,32,53,2330,,174340000,,Public,7%,Medium
+Cos (H&M),29,2007,"London, UK",51.5073509,-0.1277583,,Modern,2000,20,300,"Male, Female",20,50,"Conservative, Liberal",2,14,35,44,625,,62000000,,Private,10%,Medium
+Desigual,30,1984,"Barcelona, Spain",41.3850639,2.1734035,,Modern,3600,20,400,"Male, Female",0,99,"Conservative, Liberal",4,14,35,47,995,,68000000,,Private,7%,Medium
+Diane von Furstenberg,31,1972,"NY, USA",40.7127837,-74.0059413,,Modern,600,70,1500,Female,18,35,"Conservative, Liberal",0,14,,,500,,,,Private,,NA
+Diesel (OTB),32,1978,"Breganze, Italy",45.708245,11.5574545,,Casual,5000,60,1500,"Male, Female",18,30,"Conservative, Liberal",0,16,32,46,1025,,,,Private,,NA
+Dolce & Gabbana,33,1985,"Milan, Italy",45.4654219,9.1859243,,Luxury,3200,200,23000,Female,15,30,"Conservative, Liberal",0,10,34,44,1100,,,,Private,,NA
+Donna Karan (Includes DKNY),34,1984,"NY, USA",40.7127837,-74.0059413,,Modern,1000,50,2000,"Male, Female",20,50,"Conservative, Liberal",0,14,36,46,500,,,,Private,-1%,Low
+Eileen Fisher,35,1984,"Irvington, New York, USA",41.0391,-73.867,,Modern,800,60,400,Female,35,65,"Conservative, Liberal",2,18,,,300,,,,Private,,NA
+Elie Tahari,36,1974,"NY, USA",40.7127837,-74.0059413,,Modern,500,70,2000,Female,25,50,"Conservative, Liberal",2,14,,,500,,,,Private,,NA
+Emilio Pucci (LVMH),37,1947,"Florence, Italy",43.7695604,11.2558136,,Luxury,300,400,4000,Female,25,50,"Conservative, Liberal",0,16,,,91,,-3204150,,Private,-4%,Low
+Ermenegildo Zegna,38,1910,"Milan, Italy",45.4654219,9.1859243,,Luxury,5000,50,5000,Male,35,50,"Conservative, Liberal",,,34,52,1347,,48054825,,Private,4%,Medium
+Esprit,39,1968,"Ratingen, Germany",51.2964148,6.8401844,"Kowloon, Hong Kong",Casual,15000,20,300,"Male, Female",25,40,"Conservative, Liberal",0,12,36,47,2499,,-476113891,,Public,-19%,Low
+Everlane,40,2010,"SF, USA",37.7749295,-122.4194155,,Modern,200,20,300,"Male, Female",20,44,"Conservative, Liberal",0,12,34,51,50,,,,Private,,NA
+Express,41,1980,"Columbus, Ohio, USA",39.9611755,-82.9987942,,Casual,18000,10,300,"Male, Female",20,30,"Conservative, Liberal",-2,18,33,51,2170,,68330000,,Public,3%,Medium
+Fendi (LVMH),42,1925,"Rome, Italy",41.9027835,12.4963655,,Luxury,2000,500,18000,"Male, Female",30,50,"Conservative, Liberal",2,12,46,56,1068,,,,Private,,NA
+Fila,43,1911,"Seoul, South Korea",37.566535,126.9779692,,Sportswear,700,20,200,"Male, Female",18,35,"Conservative, Liberal",2,22,34,52,730,,-118975150,,Private,-16%,Low
+Forever 21,44,1984,"LA, USA",30.9842977,-91.9623327,,Fast Fashion,30000,5,200,"Male, Female",12,24,"Conservative, Liberal",0,12,33,46,4400,,349411764,,Private,8%,Medium
+Free People (Urban Outfitters),45,1984,"Philadelphia, USA",39.9525839,-75.1652215,,Modern,5000,20,5000,Female,25,35,"Conservative, Liberal",-1,16,,,531,,,,Public,,NA
+"Gap Inc. (Gap, Old Navy, Banana Republic, Athleta, Intermix)",46,1969,"SF, USA",37.7749295,-122.4194155,,Casual,137000,5,3000,"Male, Female",25,35,"Conservative, Liberal",0,22,34,53,16440,,1260000000,,Public,8%,Medium
+Givenchy (LVMH),47,1952,"Paris, France",48.856614,2.3522219,,Luxury,500,400,10000,"Male, Female",25,40,"Conservative, Liberal",0,12,34,48,200,,,,Private,,NA
+Gucci (Kering),48,1921,"Florence, Italy",43.7695604,11.2558136,,Luxury,10570,300,50000,"Male, Female",20,50,"Conservative, Liberal",0,12,34,48,4157,,,,Public,,NA
+Guess,49,1981,"LA, USA",30.9842977,-91.9623327,,Casual,14600,20,500,"Male, Female",15,35,"Conservative, Liberal",-1,14,35,51,2420,,93910000,,Public,4%,Medium
+H&M,50,1947,"Stockholm, Sweden",59.3293235,18.0685808,,Fast Fashion,140000,5,400,"Male, Female",15,40,"Conservative, Liberal",2,28,33,49,18000,,2200000000,,Public,12%,High
+"HanesBrands (Hanes, Champion, Playtex etc.)",51,1901,"Winston-Salem, North Carolina, USA",36.0998596,-80.244216,,Casual,65300,5,600,"Male, Female",12,40,"Conservative, Liberal",0,26,30,68,5730,,428860000,,Public,7%,Medium
+Hermès,52,1837,"Paris, France",48.856614,2.3522219,,Luxury,11700,400,12000,"Male, Female",30,60,"Conservative, Liberal",2,10,36,46,5160,,1036937490,,Public,20%,High
+Hugo Boss (Marzotto),53,1924,"Metzingen, Germany",48.5398997,9.2864061,,Luxury,13800,100,2000,"Male, Female",20,60,"Conservative, Liberal",2,12,35,53,2995,,340569832,,Public,11%,High
+J. Crew,54,1983,"NY, USA",40.7127837,-74.0059413,,Classic,15600,20,500,"Male, Female",20,40,"Conservative, Liberal",-2,20,32,49,2147,,-1064584664,,Private,-50%,Low
+John Varvatos,55,1999,"NY, USA",40.7127837,-74.0059413,,Luxury,300,50,2500,Male,25,50,"Conservative, Liberal",,,32,52,250,,,,Private,,NA
+Jones New York (Authentic Brands Group),56,1966,"Rancho Dominguez, CA, USA",33.8862137,-118.2289659,,Modern,1500,10,400,Female,25,50,"Conservative, Liberal",0,24,,,80,,,,Private,,NA
+Juicy Couture,57,1997,"NY, USA",40.7127837,-74.0059413,,Casual,160,20,2000,Female,10,35,"Conservative, Liberal",0,16,,,500,,,,Public,,NA
+Kate Spade + Jack Spade,58,1993,"NY, USA",40.7127837,-74.0059413,,Modern,6800,40,2000,"Male, Female",18,35,"Conservative, Liberal",-1,16,34,53,1243,,17087000,,Public,1%,Medium
+Kenneth Cole,59,1982,"NY, USA",40.7127837,-74.0059413,,Modern,1000,20,1000,"Male, Female",20,30,Liberal,0,12,34,52,500,,,,Private,,NA
+Lacoste,60,1933,"Troyes, France",48.2973451,4.0744009,,Sportswear,5000,30,500,"Male, Female",16,35,"Conservative, Liberal",0,16,37,56,2150,,,,Private,,NA
+Lands' End,61,1963,"Dodgeville, Wisconsin, USA",42.9602743,-90.1301237,,Casual,5300,5,500,"Male, Female",35,55,"Conservative, Liberal",-1,26,32,64,1560,,73800000,,Public,5%,Medium
+Lee (VF Corporation),62,1889,"Merriam, Kansas, USA",39.0236165,-94.6935701,,Casual,400,20,200,"Male, Female",22,28,"Conservative, Liberal",0,16,34,58,1200,,,,Public,,NA
+"Levi Strauss & Co. (including Levi's, Dockers)",63,1853,"SF, USA",37.7749295,-122.4194155,,Casual,15000,10,1100,"Male, Female",15,35,"Conservative, Liberal",-1,20,32,60,4494,,209891000,,Private,5%,Medium
+Lilly Pulitzer (Oxford Industries),64,1959,"King of Prussia, PA, USA",40.1012856,-75.3835525,,Modern,500,40,300,Female,18,32,"Conservative, Liberal",-1,16,,,969,,,,Public,,NA
+Longchamp,65,1948,"Paris, France",48.856614,2.3522219,,Luxury,1000,250,4000,Female,13,60,"Conservative, Liberal",2,12,,,604,,,,Private,,NA
+Louis Vuitton (LVHM),66,1854,"Paris, France",48.856614,2.3522219,,Luxury,121300,700,10000,Female,22,65,"Conservative, Liberal",-1,16,,,10000,,,,Public,,NA
+Lululemon Athletica,67,1998,"Vancouver, Canada",49.2827291,-123.1207375,,Sportswear,2900,30,500,"Male, Female",17,35,"Conservative, Liberal",2,12,36,48,1800,,239030000,,Public,13%,High
+Mango,68,1984,"Palau-solità i Plegamans, Spain",41.5839461,2.1804146,,Fast Fashion,12200,20,300,Female,18,40,"Conservative, Liberal",1,16,,,2483,,,,Public,,NA
+Marc Jacobs (LVMH),69,1986,"NY, USA",40.7127837,-74.0059413,,Luxury,1000,50,6000,Female,18,37,"Conservative, Liberal",-1,14,,,950,,,,Private,,NA
+Marchesa,70,2004,"NY, USA",40.7127837,-74.0059413,,Luxury,100,500,19000,Female,18,45,"Conservative, Liberal",0,14,,,5,,,,Private,,NA
+Marmot (Newell Brands),71,1974,"Rohnert Park, CA, USA",38.3396367,-122.7010984,,Sportswear,200,20,450,"Male, Female",20,60,"Conservative, Liberal",2,16,33,50,100,,,,Public,,NA
+MCM,72,1976,"Seoul, South Korea",37.566535,126.9779692,,Modern,1000,250,1700,"Male, Female",18,35,"Conservative, Liberal",2,8,36,42,700,,,,Private,,NA
+Michael Kors,73,1981,"NY, USA",40.7127837,-74.0059413,,Modern,12700,20,13000,"Male, Female",25,54,"Conservative, Liberal",2,26,32,52,4370,,881020000,,Public,20%,High
+Missoni,74,1953,"Varese, Italy",45.8205989,8.8250576,,Luxury,200,250,4000,"Male, Female",18,60,"Conservative, Liberal",0,16,34,50,181,,,,Private,,NA
+Miu Miu (Prada),75,1993,"Milan, Italy",45.4654219,9.1859243,,Luxury,300,250,7000,Female,18,45,"Conservative, Liberal",-1,14,,,384,,76330545,,Public,20%,High
+Moncler,76,1952,"Milan, Italy",45.4654219,9.1859243,,Sportswear,1800,150,3500,"Male, Female",0,99,"Conservative, Liberal",2,16,34,48,940,,179087316,,Public,19%,High
+Moschino,77,1983,"Milan, Italy",45.4654219,9.1859243,,Luxury,200,200,4000,"Male, Female",20,35,Liberal,0,16,32,46,186,,,,Public,,NA
+Nautica (VF Corporation),78,1983,"NY, USA",40.7127837,-74.0059413,,Sportswear,1500,10,300,"Male, Female",15,50,"Conservative, Liberal",0,16,32,68,400,,,,Public,,NA
+New York & Company,79,1918,"NY, USA",40.7127837,-74.0059413,,Casual,5000,10,150,Female,20,45,"Conservative, Liberal",0,20,,,923,,-15600000,,,-2%,Low
+Nike,80,1964,"Beaverton, OR, USA",45.487062,-122.8037102,,Sportswear,62600,10,500,"Male, Female",18,40,"Conservative, Liberal",0,26,35,63,30601,,3273000000,,Public,11%,High
+Patagonia,81,1973,"Ventura, CA",34.274646,-119.2290316,,Sportswear,2000,20,900,"Male, Female",25,40,"Conservative, Liberal",2,18,31,56,600,,,,Private,,NA
+Paul Smith,82,1970,"Nottingham, UK",52.9547832,-1.1581086,,Modern,1000,50,1500,Male,30,45,"Conservative, Liberal",,,34,46,253,,25823767,,Private,10%,High
+Prada,83,1913,"Milan, Italy",45.4654219,9.1859243,,Luxury,12400,400,13000,"Male, Female",20,60,"Conservative, Liberal",0,14,32,48,3034,,602468337,,Public,20%,High
+Puma (Kering),84,1948,"Herzogenaurach, Germany",49.5682987,10.8828577,,Sportswear,11400,10,200,"Male, Female",15,30,"Conservative, Liberal",0,16,30,52,3634,,,,Public,,NA
+Ralph Lauren,85,1967,"NY, USA",40.7127837,-74.0059413,,Classic,23000,20,8000,"Male, Female",0,99,"Conservative, Liberal",0,16,34,68,7405,,396000000,,Public,5%,Medium
+Rock & Republic,86,2002,"LA, USA",30.9842977,-91.9623327,,Casual,200,10,200,"Male, Female",15,50,"Conservative, Liberal",0,26,34,60,300,,,,Private,,NA
+rue21,87,1970,"Warrendale, PA, USA",40.6532076,-80.0794925,,Fast Fashion,2500,5,50,"Male, Female",11,17,"Conservative, Liberal",0,16,33,50,902,,43901000,,Private,5%,Medium
+Salvatore Ferragamo,88,1928,"Florence, Italy",43.7695604,11.2558136,,Luxury,4000,400,6000,"Male, Female",20,50,"Conservative, Liberal",2,14,34,48,1527,,186296899,,Public,12%,High
+Sperry (Wolverine Worldwide),89,1935,"Lexington, MA, USA",42.4430372,-71.2289641,,Sportswear,400,20,300,"Male, Female",15,35,"Conservative, Liberal",-1,12,36,50,500,,,,Public,,NA
+Superdry,90,1985,"Cheltenham, UK",51.8993855,-2.0782533,,Casual,2500,20,600,"Male, Female",10,30,"Conservative, Liberal",2,12,34,46,608,,60448938,,Public,10%,Medium
+Ted Baker,91,1988,"London, UK",51.5073509,-0.1277583,,Modern,3000,70,1700,"Male, Female",25,45,"Conservative, Liberal",2,12,34,46,484,,44774678,,Public,9%,Medium
+The North Face (VF Corporation),92,1968,"Alameda, California, USA",37.7652065,-122.2416355,,Sportswear,2500,20,600,"Male, Female",14,45,"Conservative, Liberal",0,18,36,56,1000,,,,Public,,NA
+The Row,93,2006,"NY, USA",40.7127837,-74.0059413,,Modern,200,300,21000,Female,25,60,"Conservative, Liberal",0,14,,,12,,,,Private,,NA
+"Theory (Fast Retailing Co., Ltd.)",94,1997,"NY, USA",40.7127837,-74.0059413,,Modern,800,60,2500,"Male, Female",20,60,"Conservative, Liberal",-1,12,34,48,1000,,,,Public,,NA
+Thom Browne,95,2002,"NY, USA",40.7127837,-74.0059413,,Luxury,100,300,5000,"Male, Female",25,45,"Conservative, Liberal",,,34,44,65,,,,Private,,NA
+Timberland (VP Corporation),96,1918,"Stratham, New Hampshire, USA",43.0228677,-70.9163873,,Sportswear,5400,20,1300,"Male, Female",18,30,"Conservative, Liberal",2,16,34,52,1800,,,,Public,,NA
+Tom Ford,97,2004,"NY, USA",40.7127837,-74.0059413,,Luxury,500,400,20000,"Male, Female",25,65,"Conservative, Liberal",0,12,34,50,500,,,,Private,,NA
+Tommy Hilfiger (PVH Corp.),98,1985,"NY, USA",40.7127837,-74.0059413,,Classic,10000,10,2000,"Male, Female",25,45,"Conservative, Liberal",0,18,32,49,3602,,,,Public,,NA
+Topshop + Topman,99,1964,"London, UK",51.5073509,-0.1277583,,Modern,10000,5,1800,"Male, Female",15,30,"Conservative, Liberal",2,12,32,48,1500,,,,Private,,NA
+Tory Burch,100,2004,"NY, USA",40.7127837,-74.0059413,,Modern,2000,70,1700,Female,20,45,"Conservative, Liberal",-1,14,,,415,,,,Private,,NA
+True Religion,101,2002,"Manhattan Beach, California, USA",33.8847361,-118.4109089,,Casual,2600,30,600,"Male, Female",15,35,"Conservative, Liberal",0,10,35,47,467,,46015000,,Private,10%,Medium
+Under Armour,102,1996,"Baltimore, MD, USA",39.2903848,-76.6121893,,Sportswear,11000,10,500,"Male, Female",18,34,"Conservative, Liberal",0,18,30,64,3963,,232573000,,Public,6%,Medium
+"Uniqlo (Fast Retailing Co., Ltd.)",103,1949,"Tokyo, Japan",35.6894875,139.6917064,,Fast Fashion,30000,5,150,"Male, Female",18,30,"Conservative, Liberal",0,16,32,50,13878,,907970000,,Public,7%,Medium
+Valentino (Marzotto),104,1960,"Milan, Italy",45.4654219,9.1859243,,Luxury,5000,400,22000,"Male, Female",16,60,"Conservative, Liberal",2,14,32,44,356,,14309994,,Public,4%,Medium
+Vans (VF Corporation),105,1966,"Cypress, CA, USA",33.8169599,-118.0372852,,Casual,3000,10,150,"Male, Female",13,25,"Conservative, Liberal",2,12,35,49,12,,1315131,,Public,11%,High
+Vera Wang,106,1990,"NY, USA",40.7127837,-74.0059413,,Modern,200,20,4000,Female,20,40,"Conservative, Liberal",0,18,,,58,,,,Private,,NA
+Versace,107,1978,"Milan, Italy",45.4654219,9.1859243,,Luxury,500,80,8000,"Male, Female",18,40,"Conservative, Liberal",2,14,35,46,720,,,,Private,,NA
+Victoria's Secret (L Brands),108,1977,"Columbus, Ohio, USA",39.9611755,-82.9987942,,Modern,20000,10,100,Female,20,40,"Conservative, Liberal",0,16,,,7672,,1000000000,,Public,13%,High
+Vineyard Vines,109,1998,"Stamford, CT, USA",41.0534302,-73.5387341,,Classic,1000,20,600,"Male, Female",15,25,"Conservative, Liberal",-1,16,36,48,308,,,,Private,,NA
+Yves Saint Laurent (Kering),110,1961,"Paris, France",48.856614,2.3522219,,Luxury,1943,350,16000,"Male, Female",25,45,"Conservative, Liberal",0,16,30,44,1039,,,,Public,,NA
+Zara (Inditex),111,1974,"Arteixo, Spain",43.3038683,-8.5102974,,Fast Fashion,110000,10,300,"Male, Female",15,35,"Conservative, Liberal",2,14,34,48,14558,,2031164820,,Public,14%,High

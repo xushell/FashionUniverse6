@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Fashion Industry in Bubbles</title>
+  <meta name="description" content="Bubble + Bar chart implementation in JS, referencing NYT visualizations and Jim Vallandingham's bubble_chart">
+  <meta name="author" content="Shelly Xu">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bubble_chart.css">
+</head>
+<body>
+  <div class="container">
+    <!--<h1>An Interactive Universe of Leading Fashion Brands Using D3.js, Created by Shelly Xu </h1>!-->
+    <div id="toolbar">
+      <a href="#" id="all" class="button active">All</a>
+      <a href="#" id="year" class="button">Year Founded</a>
+      <a href="#" id="headquarter" class="button">Headquarters</a>
+      <a href="#" id="styles" class="button">Styles</a>
+      <a href="#" id="gender" class="button">Target Gender</a>
+      <a href="#" id="political" class="button">Target Political View</a>
+      <a href="#" id="employee" class="button">Employee Number</a>
+      <a href="#" id="age" class="button">Age Range</a>
+      <a href="#" id="price" class="button">Price Range</a>
+      <a href="#" id="wsize" class="button">Women Sizes</a>
+      <a href="#" id="msize" class="button">Men Sizes</a>
+      <p><div id='search_container'>
+                      <input id='search_box' type="text" class="box" placeholder="Input Brand Name">
+                      <a href="#" id="search" class="button">Search</a>
+      </div></p>
+    </div>
+    <div id="vis"></div>
+
+    <div class="footer">
+      <p> This is my visualization of the top fashion brands with clothing lines, using animated bubble charts in JavaScript and D3.js. All illustrations, design and data collection are also done by me. The study pulls information from in-person interviews/observations at NYC store locations, 100+ annual reports, 200+ news articles as well as company websites, BoF, LinkedIn and Glassdoor. Top brands are determined based on market share, revenue, and brand recognition. The study deliberately selects brands recognizable to the end user. Therefore, some brands are larger companies while others may be a part of a holding company. The study is not perfect. Private companies and brands under holding companies frequently mask their data. In those cases, you will find estimations based on news articles and public websites. </p>
+      
+      <!--<p><a href="http://vallandingham.me/bubble_charts_in_js.html">Blog Post</a> | <a href="https://github.com/vlandham/bubble_chart">Code</a></p>-->
+    </div>
+  </div>
+
+  <script src="lib/d3.js"></script>
+  <script src="lib/jquery-1.12.4.js"></script>
+  <script src="lib/jquery-ui.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <script src="src/tooltip.js"></script>
+  <script src="src/bubble_chart.js"></script>
+
+
+</body>
+</html>
