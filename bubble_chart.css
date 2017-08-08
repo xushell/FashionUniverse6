@@ -46,7 +46,12 @@ a, a:visited, a:active {
 
 h1 {
  color: #6d6c6a;
- font-size: 15px;
+ font-size: 18px;
+}
+
+h2 {
+ color: #6d6c6a;
+ font-size: 13px;
 }
 
 .styles,
