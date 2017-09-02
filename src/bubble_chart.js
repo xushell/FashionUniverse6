@@ -566,7 +566,7 @@ function bubbleChart() {
        hideStart();
        force.on('tick', function (e) {
 
-       background_image.attr("xlink:href", "images/Emp.png");
+       background_image.attr("xlink:href", "images/Emp2.png");
 
        bubbles.transition()
         .duration(200)
