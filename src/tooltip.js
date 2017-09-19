@@ -1,8 +1,6 @@
 /*
  * Creates tooltip with provided id that
  * floats on top of visualization.
- * Most styling is expected to come from CSS
- * so check out bubble_chart.css for more details.
  */
 function floatingTooltip(tooltipId, width) {
   // Local variable to hold tooltip div for
